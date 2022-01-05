@@ -1,0 +1,34 @@
+.top-section{
+    height: 200px;
+    background-color: rgb(73, 67, 67);
+}
+
+.columns{
+        width: 170px;
+        height: 540px;
+        background-color: grey;
+        z-index: 5;
+        position: relative;
+        
+        
+        
+             
+}
+
+#leftColumn{
+    float: left;
+}
+#rightColumn{
+    float: right;
+}
+
+
+
+.bottom{
+    height: 100px;
+    width: 100%;
+    background-color: black;
+    position:fixed;
+    bottom: 0px;
+    z-index: 2;
+}
